@@ -1,0 +1,11 @@
+.history
+*.sublime-*
+settings
+node_modules
+
+# testing stuff
+lua_modules
+luacov.*.out
+
+#local lua
+.lua
